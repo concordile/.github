@@ -3,6 +3,8 @@
 The Leopold is an application,
 a broker for working with Consumer Driven Contracts (CDC).
 
+> Guys, let's all get along
+
 <img
 src="https://github.com/projectleopold/.github/blob/main/profile/leopold-concept.jpg"
 alt="Leopold concept"
