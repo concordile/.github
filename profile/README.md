@@ -1,5 +1,3 @@
-# Project Leopold
-
 The Leopold is an application,
 a broker for working with Consumer Driven Contracts (CDC).
 
